@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="1000" height="600">
+  <!-- Background -->
+  <rect width="1000" height="600" fill="#f5f8f0" />
+  
+  <!-- Background decorative elements -->
+  <g opacity="0.15">
+    <path d="M0,150 Q250,200 500,150 T1000,150 V600 H0 Z" fill="#8cb369" />
+    <path d="M0,300 Q250,350 500,300 T1000,300 V600 H0 Z" fill="#5b8a3c" />
+  </g>
+  
+  <!-- Pasture scene -->
+  <g transform="translate(0, 350)">
+    <!-- Ground -->
+    <path d="M0,0 L1000,0 L1000,250 L0,250 Z" fill="#aac78f" />
+    
+    <!-- Hills in background -->
+    <path d="M0,0 Q150,-50 300,0 T600,0 T900,0 T1000,-20 V250 H0 Z" fill="#8cb369" />
+    <path d="M0,50 Q200,20 400,50 T800,50 T1000,30 V250 H0 Z" fill="#78a24e" />
+  </g>
+  
+  <!-- Salt lick in foreground -->
+  <g transform="translate(500, 400)">
+    <!-- Salt lick block -->
+    <rect x="-100" y="-50" width="200" height="100" rx="10" ry="10" fill="#e8d0d7" stroke="#d9b9c3" stroke-width="3" />
+    
+    <!-- Salt texture -->
+    <g opacity="0.7">
+      <circle cx="-70" cy="-20" r="5" fill="#f1dee3" />
+      <circle cx="-40" cy="-30" r="7" fill="#f1dee3" />
+      <circle cx="-10" cy="-10" r="6" fill="#f1dee3" />
+      <circle cx="20" cy="-25" r="8" fill="#f1dee3" />
+      <circle cx="50" cy="-15" r="4" fill="#f1dee3" />
+      <circle cx="70" cy="-35" r="6" fill="#f1dee3" />
+      
+      <circle cx="-50" cy="10" r="7" fill="#f1dee3" />
+      <circle cx="-20" cy="25" r="5" fill="#f1dee3" />
+      <circle cx="10" cy="15" r="9" fill="#f1dee3" />
+      <circle cx="40" cy="20" r="6" fill="#f1dee3" />
+      <circle cx="60" cy="5" r="4" fill="#f1dee3" />
+    </g>
+    
+    <!-- Lick marks -->
+    <path d="M-80,-40 C-75,-45 -65,-45 -60,-40" stroke="#d9b9c3" stroke-width="2" fill="none" />
+    <path d="M-40,-20 C-35,-25 -25,-25 -20,-20" stroke="#d9b9c3" stroke-width="2" fill="none" />
+    <path d="M0,-30 C5,-35 15,-35 20,-30" stroke="#d9b9c3" stroke-width="2" fill="none" />
+    <path d="M30,-10 C35,-15 45,-15 50,-10" stroke="#d9b9c3" stroke-width="2" fill="none" />
+    <path d="M-70,20 C-65,15 -55,15 -50,20" stroke="#d9b9c3" stroke-width="2" fill="none" />
+    <path d="M-30,30 C-25,25 -15,25 -10,30" stroke="#d9b9c3" stroke-width="2" fill="none" />
+    <path d="M20,25 C25,20 35,20 40,25" stroke="#d9b9c3" stroke-width="2" fill="none" />
+    <path d="M50,15 C55,10 65,10 70,15" stroke="#d9b9c3" stroke-width="2" fill="none" />
+  </g>
+  
+  <!-- Animals -->
+  <g transform="translate(300, 350)">
+    <!-- Horse silhouette -->
+    <g fill="#6b5233">
+      <!-- Body -->
+      <ellipse cx="0" cy="0" rx="80" ry="40" />
+      <!-- Neck -->
+      <path d="M60,-10 C80,-40 100,-50 110,-70" stroke="#6b5233" stroke-width="25" stroke-linecap="round" fill="none" />
+      <!-- Head -->
+      <ellipse cx="120" cy="-80" rx="20" ry="10" transform="rotate(30, 120, -80)" />
+      <!-- Legs -->
+      <rect x="-60" y="30" width="15" height="70" rx="5" ry="5" />
+      <rect x="-20" y="30" width="15" height="75" rx="5" ry="5" />
+      <rect x="30" y="30" width="15" height="70" rx="5" ry="5" />
+      <rect x="70" y="30" width="15" height="75" rx="5" ry="5" />
+      <!-- Tail -->
+      <path d="M-70,0 C-90,20 -100,40 -90,60" stroke="#6b5233" stroke-width="12" stroke-linecap="round" fill="none" />
+    </g>
+  </g>
+  
+  <!-- Cow silhouette -->
+  <g transform="translate(700, 380)">
+    <g fill="#5c4a36">
+      <!-- Body -->
+      <ellipse cx="0" cy="0" rx="70" ry="45" />
+      <!-- Neck -->
+      <path d="M50,-20 C70,-30 80,-40 85,-60" stroke="#5c4a36" stroke-width="30" stroke-linecap="round" fill="none" />
+      <!-- Head -->
+      <ellipse cx="90" cy="-70" rx="25" ry="15" />
+      <!-- Legs -->
+      <rect x="-50" y="35" width="20" height="65" rx="5" ry="5" />
+      <rect x="-15" y="35" width="20" height="65" rx="5" ry="5" />
+      <rect x="25" y="35" width="20" height="65" rx="5" ry="5" />
+      <rect x="60" y="35" width="20" height="65" rx="5" ry="5" />
+      <!-- Horns -->
+      <path d="M75,-80 L95,-95" stroke="#5c4a36" stroke-width="6" stroke-linecap="round" fill="none" />
+      <path d="M105,-80 L125,-95" stroke="#5c4a36" stroke-width="6" stroke-linecap="round" fill="none" />
+    </g>
+  </g>
+  
+  <!-- Mineral flow visualization -->
+  <g transform="translate(500, 150)">
+    <!-- Central salt lick -->
+    <ellipse cx="0" cy="0" rx="50" ry="25" fill="#e8d0d7" stroke="#d9b9c3" stroke-width="2" />
+    
+    <!-- Mineral icons -->
+    <g>
+      <circle cx="-20" cy="-10" r="8" fill="#c77c98" opacity="0.8" />
+      <text x="-20" y="-6" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white" font-weight="bold">Ca</text>
+      
+      <circle cx="0" cy="10" r="8" fill="#7c98c7" opacity="0.8" />
+      <text x="0" y="14" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white" font-weight="bold">Mg</text>
+      
+      <circle cx="20" cy="-10" r="8" fill="#c7c77c" opacity="0.8" />
+      <text x="20" y="-6" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white" font-weight="bold">Na</text>
+    </g>
+    
+    <!-- Flow lines to animal systems -->
+    <g>
+      <!-- Digestion -->
+      <path d="M-30,-20 C-80,-40 -130,-30 -150,-10" stroke="#8cb369" stroke-width="2" stroke-dasharray="5,3" fill="none" />
+      <circle cx="-150" cy="-10" r="25" fill="#8cb369" opacity="0.5" />
+      <text x="-150" y="-6" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">Digestion</text>
+      
+      <!-- Bones -->
+      <path d="M-20,-30 C-30,-80 -20,-130 0,-150" stroke="#c77c98" stroke-width="2" stroke-dasharray="5,3" fill="none" />
+      <circle cx="0" cy="-150" r="25" fill="#c77c98" opacity="0.5" />
+      <text x="0" y="-146" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">Bones</text>
+      
+      <!-- Muscles -->
+      <path d="M30,-20 C80,-40 130,-30 150,-10" stroke="#7c98c7" stroke-width="2" stroke-dasharray="5,3" fill="none" />
+      <circle cx="150" cy="-10" r="25" fill="#7c98c7" opacity="0.5" />
+      <text x="150" y="-6" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">Muscles</text>
+      
+      <!-- Reproduction -->
+      <path d="M20,-30 C30,-80 20,-130 0,-100" stroke="#c7c77c" stroke-width="2" stroke-dasharray="5,3" fill="none" />
+      <circle cx="0" cy="-100" r="25" fill="#c7c77c" opacity="0.5" />
+      <text x="0" y="-96" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">Reproduction</text>
+    </g>
+  </g>
+  
+  <!-- Title text -->
+  <text x="500" y="50" font-family="Georgia, serif" font-size="36" text-anchor="middle" fill="#5b8a3c" font-weight="bold">
+    Animal Licks: Essential Minerals for Livestock
+  </text>
+  
+  <!-- Subtitle text -->
+  <text x="500" y="90" font-family="Georgia, serif" font-size="20" text-anchor="middle" fill="#78a24e">
+    Supporting health and nutrition with Pink Himalayan Salt
+  </text>
+  
+  <!-- Bottom informational text -->
+  <text x="500" y="570" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#5b8a3c">
+    Dr. Abdul PHS • Salt Knowledge Centre
+  </text>
+</svg>

@@ -1,0 +1,38 @@
+{
+  "page_title": "Salt Flavor Mood Matcher",
+  "meta_description": "Discover your perfect Pink Himalayan Salt blend based on your mood or culinary needs with our interactive Salt Flavor Mood Matcher tool.",
+  "header": "Find Your Perfect Salt Match",
+  "subheader": "Let us guide you to the ideal Pink Himalayan Salt flavor based on your current mood or taste preferences.",
+  "match_by_mood": "Match by Mood",
+  "match_by_taste": "Match by Taste",
+  "mood_prompt": "How are you feeling today?",
+  "taste_prompt": "What flavor profile do you prefer?",
+  "taste_profile": "Taste Profile",
+  "matching_moods": "Matching Moods",
+  "culinary_uses": "Culinary Uses",
+  "benefits": "Benefits",
+  "details_button": "Details",
+  "add_to_cart_button": "Add to Cart",
+  "added_to_cart": "Added to Cart",
+  "added_to_cart_message": "{{name}} has been added to your cart.",
+  "no_matches": "No matches found",
+  "try_different": "Try selecting a different mood or taste profile.",
+  "moods": {
+    "energetic": "Energetic",
+    "calm": "Calm",
+    "focused": "Focused",
+    "creative": "Creative",
+    "adventurous": "Adventurous"
+  },
+  "tastes": {
+    "mild": "Mild",
+    "medium": "Medium",
+    "strong": "Strong",
+    "exotic": "Exotic",
+    "herbal": "Herbal",
+    "spicy": "Spicy",
+    "smoky": "Smoky",
+    "citrusy": "Citrusy",
+    "floral": "Floral"
+  }
+}

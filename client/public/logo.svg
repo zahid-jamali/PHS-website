@@ -1,0 +1,58 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 300 100"
+  width="300"
+  height="100"
+  fill="none"
+>
+  <!-- Salt Crystal Shape -->
+  <g transform="translate(20, 10)">
+    <path
+      d="M40 10L10 30V75H70V30L40 10Z"
+      stroke="#FF6B6B"
+      stroke-width="3"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      fill="#FFEEEE"
+    />
+    <path
+      d="M30 45L40 55L50 45L40 35L30 45Z"
+      fill="#FF6B6B"
+      stroke="#FF6B6B"
+      stroke-width="1"
+    />
+    <path
+      d="M25 58L35 68L45 58L35 48L25 58Z"
+      fill="#FF9999"
+      stroke="#FF9999"
+      stroke-width="1"
+    />
+    <path
+      d="M45 60L55 70L65 60L55 50L45 60Z"
+      fill="#FF7777"
+      stroke="#FF7777"
+      stroke-width="1"
+    />
+  </g>
+
+  <!-- Logo Text -->
+  <g transform="translate(95, 45)">
+    <text
+      font-family="Arial, sans-serif"
+      font-weight="700"
+      font-size="26"
+      fill="#333333"
+    >
+      Dr. Abdul <tspan fill="#FF6B6B">PHS</tspan>
+    </text>
+    <text
+      font-family="Arial, sans-serif"
+      font-weight="400"
+      font-size="12"
+      fill="#666666"
+      y="20"
+    >
+      Premium Pink Himalayan Salt
+    </text>
+  </g>
+</svg>

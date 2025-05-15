@@ -1,0 +1,82 @@
+{
+  "knowledgeCenter": {
+    "title": "Pink Himalayan Salt Knowledge Center",
+    "subtitle": "Explore the fascinating world of Pink Himalayan Salt - from ancient history to modern health applications",
+    "breadcrumb": "Knowledge Center",
+    "introTitle": "Explore the World of Pink Himalayan Salt",
+    "introText": "Our knowledge center is your educational resource for everything about Pink Himalayan Salt. From its ancient geological origins to its modern applications in health, cuisine, and wellness, discover the science and stories behind nature's purest mineral treasure.",
+    "ctaTitle": "Ready to Experience the Benefits of Pink Himalayan Salt?",
+    "ctaText": "Explore our premium selection of Pink Himalayan Salt products and bring the natural healing power of the Himalayas into your home.",
+    "viewResearch": "View Research Papers",
+    "articles": {
+      "history-of-phs": {
+        "title": "History of Pink Himalayan Salt",
+        "description": "Discover the fascinating 800-million-year history of Pink Himalayan Salt and how it was formed deep within the ancient sea beds of the Himalayan mountains."
+      },
+      "mining-process": {
+        "title": "The Mining Process",
+        "description": "Learn about the traditional and modern techniques used to extract Pink Himalayan Salt from the Khewra Salt Mine in Pakistan."
+      },
+      "mineral-composition": {
+        "title": "Mineral Composition & Benefits",
+        "description": "Explore the unique mineral composition of Pink Himalayan Salt, containing 84+ trace minerals and elements essential for human health."
+      },
+      "culinary-uses": {
+        "title": "Culinary Uses & Benefits",
+        "description": "Discover how to incorporate Pink Himalayan Salt into your cooking and the unique flavor profiles it brings to different cuisines."
+      },
+      "health-benefits": {
+        "title": "Health & Wellness Benefits",
+        "description": "Learn about the numerous health benefits of Pink Himalayan Salt including respiratory support, skin health, and digestive improvements."
+      },
+      "sustainability": {
+        "title": "Sustainability & Eco-Friendly Practices",
+        "description": "Understand how our Pink Himalayan Salt products are ethically sourced and our commitment to sustainable mining and production practices."
+      }
+    }
+  },
+  "knowledge": {
+    "history": {
+      "title": "The History of Pink Himalayan Salt",
+      "subtitle": "An 800-million-year journey from ancient seas to the \"Salt Range\" of Pakistan",
+      "breadcrumb": "History of Pink Himalayan Salt",
+      "introTitle": "The Ancient Origins of Pink Himalayan Salt",
+      "introText": "Pink Himalayan Salt is often referred to as \"white gold\" or \"pink gold\" due to its rarity, purity, and the numerous benefits it offers. But how did this remarkable mineral form, and what journey has it taken through geological time to become one of the most prized natural resources in the world today?",
+      "geologyTitle": "A Geological Marvel",
+      "geologyText1": "Pink Himalayan Salt's story begins approximately 800 million years ago during the Precambrian era. At this time, a vast, shallow inland sea covered what would eventually become the Himalayan Mountains. As the climate changed and the sea began to evaporate, it left behind massive salt deposits crystallized in the sun.",
+      "geologyText2": "These salt deposits were eventually sealed beneath layers of earth and rock, protecting them from contamination and preserving their purity. What makes Pink Himalayan Salt unique is that it remained untouched and unpolluted for hundreds of millions of years, resulting in one of the purest salt deposits on Earth.",
+      "timelineTitle": "The Journey Through Time",
+      "khewraTitle": "The Khewra Salt Mine: Birthplace of Pink Himalayan Salt",
+      "khewraText1": "Located in the Punjab region of Pakistan, the Khewra Salt Mine is the second largest salt mine in the world and the primary source of Pink Himalayan Salt. The mine is part of the Salt Range, a mineral-rich mountain system in the Punjab province extending from the Jhelum River to the Indus River.",
+      "discoveryTitle": "The Legend of Discovery",
+      "discoveryText": "According to local legend, the Khewra Salt Mine was discovered in 326 BCE when Alexander the Great's army was passing through the region. The soldiers noticed their horses licking the salty rocks. Some accounts suggest that it was Alexander's horse, Bucephalus, who first discovered the salt rocks. Observing the horses, the soldiers tasted the rocks themselves and discovered the salt deposits.",
+      "modernMiningTitle": "Modern Mining Operations",
+      "modernMiningText1": "While salt collection from the area likely dates back thousands of years, systematic mining operations began during the Mughal era. The mine was significantly developed during British colonial rule in the 19th century when British mining engineer Dr. H. Warth introduced the room and pillar method, which is still used today.",
+      "modernMiningText2": "Today, the Khewra Salt Mine produces around 350,000 tons of salt annually and is estimated to have over 220 million tons of salt reserves. The mine features over 40 kilometers of tunnels across 19 floors, 11 of which are below ground level. Only about 50% of the salt extracted is processed for consumption; the remainder is used for industrial purposes.",
+      "factTitle": "Fascinating Facts About the Khewra Salt Mine",
+      "fact1": "The mine has a small mosque made entirely of salt rock inside it.",
+      "fact2": "There are salt sculptures and replicas of famous landmarks, including a model of the Great Wall of China, created by miners.",
+      "fact3": "A small saltwater lake exists within the mine, with salinity levels similar to the Dead Sea.",
+      "fact4": "The mine has become a tourist attraction, receiving hundreds of thousands of visitors annually.",
+      "fact5": "There is even a small electric train that takes visitors through parts of the mine.",
+      "faqTitle": "Frequently Asked Questions",
+      "faq1Question": "Why is Himalayan salt pink?",
+      "faq1Answer": "The distinctive pink color comes from trace minerals in the salt, primarily iron oxide (rust). The varying shades of pink, red, and white in the salt reflect the varying concentration of these minerals throughout the deposits.",
+      "faq2Question": "Is Pink Himalayan Salt actually from the Himalayas?",
+      "faq2Answer": "Yes and no. While the salt comes from the Salt Range mountains which are geologically part of the greater Himalayan mountain system, the Khewra Mine is specifically located in the Punjab region of Pakistan, in the foothills of the Himalayas rather than in the high Himalayan range itself.",
+      "faq3Question": "How pure is Pink Himalayan Salt compared to other salts?",
+      "faq3Answer": "Pink Himalayan Salt is considered one of the purest forms of salt available. Having been isolated and protected from modern environmental pollution for millions of years, it contains fewer impurities than many other types of salt. However, its defining feature is actually its rich mineral content with 84+ trace minerals and elements that give it both its color and its health benefits.",
+      "faq4Question": "How is Pink Himalayan Salt harvested today?",
+      "faq4Answer": "Today, Pink Himalayan Salt is still largely extracted using traditional mining methods. While some modern equipment is used, much of the mining is done by hand to preserve the salt's quality and the ecological balance of the region. Miners use a room and pillar method, where they leave behind pillars of salt to support the mine's ceiling as they extract the surrounding salt. This method has been in use since the 19th century.",
+      "ctaTitle": "Experience This Ancient Treasure For Yourself",
+      "ctaText": "Discover our range of authentic Pink Himalayan Salt products, ethically sourced from the Khewra Salt Mine and brought directly from Pakistan to your doorstep."
+    }
+  },
+  "common": {
+    "home": "Home",
+    "readMore": "Read More",
+    "shopNow": "Shop Now",
+    "exploreProducts": "Explore Our Products",
+    "backToKnowledgeCenter": "Back to Knowledge Center"
+  }
+}

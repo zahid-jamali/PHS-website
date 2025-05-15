@@ -1,0 +1,106 @@
+{
+  "navbar": {
+    "home": "首页",
+    "products": "产品",
+    "about": "关于我们",
+    "knowledge": "知识中心",
+    "wholesale": "批发",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "title": "用自然完美的盐提升您的健康与美食",
+    "subtitle": "体验喜马拉雅粉盐的奢华口感和治疗益处，采自古老海床，纯净包装，全球配送。",
+    "imageCaption": "特色：巴基斯坦凯沃拉盐矿的水晶宫隧道 — 世界上最古老的盐矿，我们优质喜马拉雅粉盐的真正来源",
+    "shopButton": "购买产品",
+    "wholesaleButton": "批发咨询"
+  },
+  "about": {
+    "title": "我们的故事与传承",
+    "paragraph1": "Abdul博士PHS公司成立的初衷是将最纯净的喜马拉雅粉盐从巴基斯坦直接带给全球注重健康的消费者。我们的旅程始于喜马拉雅山脉古老的盐矿，自然在那里精心制作完美的盐已有数百万年的历史。",
+    "paragraph2": "我们的与众不同之处在于直接采购的方式。我们与当地采矿社区保持密切关系，确保从矿山到您餐桌的公平做法和纯净的产品质量。",
+    "readMoreButton": "了解更多关于我们"
+  },
+  "products": {
+    "title": "我们的优质产品",
+    "subtitle": "探索我们为健康、养生和烹饪卓越而打造的喜马拉雅粉盐产品系列",
+    "categories": {
+      "all": "所有产品",
+      "culinary": "烹饪",
+      "bath": "沐浴与身体",
+      "lamps": "盐灯",
+      "therapy": "盐疗",
+      "wholesale": "批发"
+    },
+    "viewProductButton": "查看产品"
+  },
+  "features": {
+    "title": "为什么选择Abdul博士PHS？",
+    "subtitle": "是什么让我们的喜马拉雅粉盐产品与众不同",
+    "feature1": {
+      "title": "优质来源",
+      "description": "采自巴基斯坦纯净的凯沃拉盐矿，以最纯净的喜马拉雅粉盐沉积物而闻名"
+    },
+    "feature2": {
+      "title": "矿物质丰富",
+      "description": "含有84+种对您的健康和福祉有益的天然矿物质和微量元素"
+    },
+    "feature3": {
+      "title": "专家品质",
+      "description": "每一件产品都符合Abdul博士对纯度、矿物质含量和治疗价值的严格标准"
+    },
+    "feature4": {
+      "title": "全球配送",
+      "description": "快速可靠的运输，精心包装，确保您的产品以完美状态送达"
+    }
+  },
+  "testimonials": {
+    "title": "客户评价",
+    "viewAllButton": "查看所有评价"
+  },
+  "callToAction": {
+    "title": "准备好体验益处了吗？",
+    "subtitle": "加入全球数千名注重健康的客户",
+    "shopButton": "立即购买",
+    "learnMoreButton": "了解更多"
+  },
+  "footer": {
+    "about": "关于Abdul博士PHS",
+    "aboutText": "我们将巴基斯坦古老凯沃拉盐矿中最纯净的喜马拉雅粉盐带给全球注重健康的客户。优质品质，道德采购，全球配送。",
+    "quickLinks": "快速链接",
+    "categories": "分类",
+    "newsletter": "获取更新",
+    "newsletterText": "订阅以接收新产品提醒、特别优惠和健康生活提示。",
+    "email": "电子邮件地址",
+    "subscribeButton": "订阅",
+    "copyright": "© 2025 Abdul博士PHS。保留所有权利。",
+    "privacyPolicy": "隐私政策",
+    "terms": "条款与条件"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "我们很乐意听到您的声音",
+    "name": "您的姓名",
+    "email": "电子邮件地址",
+    "subject": "主题",
+    "message": "您的留言",
+    "submitButton": "发送信息",
+    "office": "我们的办公室",
+    "warehouse": "美国仓库",
+    "phone": "电话",
+    "emailUs": "给我们发邮件"
+  },
+  "wholesale": {
+    "title": "批发合作",
+    "subtitle": "加入我们的全球喜马拉雅粉盐分销商网络",
+    "formTitle": "批发咨询表",
+    "business": "公司名称",
+    "name": "联系人",
+    "email": "电子邮件地址",
+    "phone": "电话号码",
+    "country": "国家",
+    "interest": "感兴趣的产品",
+    "volume": "预估数量",
+    "message": "附加信息",
+    "submitButton": "提交咨询"
+  }
+}

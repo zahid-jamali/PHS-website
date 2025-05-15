@@ -1,0 +1,38 @@
+{
+  "page_title": "盐味配对工具",
+  "meta_description": "通过我们的互动盐味配对工具，根据您的心情或烹饪需求，发现完美的喜马拉雅粉红盐混合。",
+  "header": "找到您的完美盐味搭配",
+  "subheader": "根据您当前的心情或口味偏好，让我们为您推荐理想的喜马拉雅粉红盐口味。",
+  "match_by_mood": "按心情匹配",
+  "match_by_taste": "按口味匹配",
+  "mood_prompt": "您今天感觉如何？",
+  "taste_prompt": "您喜欢什么口味特点？",
+  "taste_profile": "口味特点",
+  "matching_moods": "匹配心情",
+  "culinary_uses": "烹饪用途",
+  "benefits": "功效",
+  "details_button": "详情",
+  "add_to_cart_button": "加入购物车",
+  "added_to_cart": "已添加到购物车",
+  "added_to_cart_message": "{{name}} 已添加到您的购物车。",
+  "no_matches": "未找到匹配项",
+  "try_different": "请尝试选择不同的心情或口味特点。",
+  "moods": {
+    "energetic": "精力充沛",
+    "calm": "平静",
+    "focused": "专注",
+    "creative": "创造性",
+    "adventurous": "冒险"
+  },
+  "tastes": {
+    "mild": "温和",
+    "medium": "中等",
+    "strong": "浓烈",
+    "exotic": "异国风味",
+    "herbal": "草本",
+    "spicy": "辛辣",
+    "smoky": "烟熏",
+    "citrusy": "柑橘",
+    "floral": "花香"
+  }
+}

@@ -1,0 +1,47 @@
+Create a professional, visually appealing, and high-converting website for our online business "Dr. Abdul PHS," specializing in the export of premium Pink Himalayan Salt (PHS) directly from Pakistan, with a warehouse in the USA. The website should establish credibility, showcase our product’s history, and facilitate B2B and B2C sales with seamless integration into global e-commerce platforms.  
+
+Key Requirements:  
+
+1. Branding & Messaging:  
+- Highlight Dr. Abdul’s expertise in halo-therapy (salt therapy) and the authenticity of PHS sourced directly from Pakistan.  
+- Showcase the history, benefits, and purity of Pink Himalayan Salt.  
+- Emphasize direct supply from industry to customers, ensuring competitive wholesale pricing.  
+
+2. Website Structure & Features:  
+- Homepage: Engaging hero section with high-quality visuals, key USPs (direct sourcing, wholesale, halo-therapy support).  
+- About Us: Company history, Dr. Abdul’s background, and commitment to quality.  
+- Products & Services:  
+  - Wholesale bulk orders (industry to direct customers).  
+  - Customized packaging/solutions (per customer requirements).  
+  - Retail options for individual buyers.  
+  - Halo-Therapy Support: Dedicated section for salt therapy centers (consultation, bulk supply).  
+- E-Commerce Integration:  
+  - Direct sales via Shopify/WooCommerce (with secure payment gateways: Stripe, PayPal, etc.).  
+  - Links to Amazon, eBay, Alibaba, and other US marketplaces.  
+- Special Offers & Promotions: Highlight seasonal discounts, bulk deals, and subscription models.  
+- Testimonials & Certifications: Build trust with customer reviews, export certifications, and quality assurance badges.  
+- Blog/Resources: Educational content on PHS benefits, halo-therapy guides, and industry trends.  
+- Contact & Support:  
+  - WhatsApp, email, and phone support (US & Pakistan).  
+  - Inquiry form for bulk/custom orders.  
+
+3. Target Market & Localization:  
+- Primary Audience: USA-based wholesalers, retailers, halo-therapy centers, and health-conscious consumers.  
+- Currency & Payments: All transactions in USD, with multiple secure payment options (credit cards, wire transfers, etc.).  
+- SEO Optimization: Keywords like "Pink Himalayan Salt wholesale USA," "Bulk PHS supplier," "Halo-therapy salt supplier."  
+
+4. Design & UX:  
+- Clean, modern, and trustworthy aesthetic with a color scheme reflecting natural salt hues (soft pinks, whites, earthy tones).  
+- Mobile-responsive and fast-loading (critical for SEO and user experience).  
+- High-quality images/videos of mines, packaging, and halo-therapy applications.  
+
+5. Additional Features:  
+- Multi-language support (if targeting non-English markets later).  
+- Live chat for instant customer queries.  
+- Order tracking integration for logistics transparency.  
+
+Deliverables Expected:  
+- A fully functional, scalable website with e-commerce capabilities.  
+- Integration with major US online marketplaces (Amazon, eBay, etc.).  
+- SEO-optimized content to rank for relevant keywords.  
+- Secure payment gateways and smooth checkout process.  

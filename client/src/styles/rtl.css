@@ -1,0 +1,95 @@
+/* RTL (Right-to-Left) Support for Arabic Language */
+
+body.rtl {
+  text-align: right;
+  direction: rtl;
+}
+
+/* Flip margins and paddings */
+.rtl .ml-1, .rtl .ml-2, .rtl .ml-3, .rtl .ml-4, .rtl .ml-5, .rtl .ml-6, .rtl .ml-8, .rtl .ml-10, .rtl .ml-12 {
+  margin-left: 0 !important;
+  margin-right: 0.25rem !important;
+}
+
+.rtl .mr-1, .rtl .mr-2, .rtl .mr-3, .rtl .mr-4, .rtl .mr-5, .rtl .mr-6, .rtl .mr-8, .rtl .mr-10, .rtl .mr-12 {
+  margin-right: 0 !important;
+  margin-left: 0.25rem !important;
+}
+
+.rtl .pl-1, .rtl .pl-2, .rtl .pl-3, .rtl .pl-4, .rtl .pl-5, .rtl .pl-6, .rtl .pl-8, .rtl .pl-10, .rtl .pl-12 {
+  padding-left: 0 !important;
+  padding-right: 0.25rem !important;
+}
+
+.rtl .pr-1, .rtl .pr-2, .rtl .pr-3, .rtl .pr-4, .rtl .pr-5, .rtl .pr-6, .rtl .pr-8, .rtl .pr-10, .rtl .pr-12 {
+  padding-right: 0 !important;
+  padding-left: 0.25rem !important;
+}
+
+/* Flip flexbox elements */
+.rtl .flex-row {
+  flex-direction: row-reverse;
+}
+
+.rtl .flex-row-reverse {
+  flex-direction: row;
+}
+
+/* Flip text alignment */
+.rtl .text-left {
+  text-align: right;
+}
+
+.rtl .text-right {
+  text-align: left;
+}
+
+/* Flip borders */
+.rtl .border-l {
+  border-left: 0 !important;
+  border-right: 1px solid;
+}
+
+.rtl .border-r {
+  border-right: 0 !important;
+  border-left: 1px solid;
+}
+
+/* Flip icon alignments */
+.rtl .items-center svg {
+  margin-right: 0;
+  margin-left: 0.5rem;
+}
+
+/* Adjust dropdown menu positions */
+.rtl .dropdown-menu {
+  left: auto;
+  right: 0;
+}
+
+/* Flip border radius for chat bubbles */
+.rtl .rounded-tl-none {
+  border-top-left-radius: 0.375rem;
+  border-top-right-radius: 0;
+}
+
+.rtl .rounded-tr-none {
+  border-top-right-radius: 0.375rem;
+  border-top-left-radius: 0;
+}
+
+/* Adjust form elements */
+.rtl input, .rtl textarea {
+  text-align: right;
+}
+
+/* Flip icons in button groups */
+.rtl .btn-icon svg {
+  transform: scaleX(-1);
+}
+
+/* Special handling for language switcher */
+.rtl .language-switcher .dropdown-menu {
+  right: auto;
+  left: 0;
+}

@@ -1,0 +1,35 @@
+{
+  "default": {
+    "title": "优质喜马拉雅粉盐产品 | Dr. Abdul PHS",
+    "description": "直接从巴基斯坦发现高级喜马拉雅粉盐产品。天然盐灯、水疗用品、盐砖和瓷砖，提供全球配送。",
+    "keywords": "喜马拉雅粉盐, 盐灯, 盐砖, 盐疗, 天然盐, 盐瓷砖, 批发盐"
+  },
+  "home": {
+    "title": "优质喜马拉雅粉盐产品 | Dr. Abdul PHS",
+    "description": "探索我们的高品质喜马拉雅粉盐产品选择。从装饰灯到治疗盐制品，我们提供从巴基斯坦直接发货。"
+  },
+  "products": {
+    "title": "购买喜马拉雅粉盐产品 | Dr. Abdul PHS",
+    "description": "浏览我们完整的喜马拉雅粉盐产品系列，包括盐灯、盐砖、水疗用品等，提供全球配送。"
+  },
+  "saltLamps": {
+    "title": "天然喜马拉雅粉盐灯 | Dr. Abdul PHS",
+    "description": "发现我们手工制作的喜马拉雅粉盐灯。这些天然空气净化器提供温暖的琥珀色光芒，有助于减少过敏原。"
+  },
+  "saltBricks": {
+    "title": "喜马拉雅粉盐砖和瓷砖 | Dr. Abdul PHS",
+    "description": "用于建造盐室、盐墙和盐疗空间的高级盐砖和瓷砖。直接来自巴基斯坦最好的盐矿。"
+  },
+  "about": {
+    "title": "关于 Dr. Abdul PHS | 优质喜马拉雅粉盐",
+    "description": "了解 Dr. Abdul PHS，一家领先的优质喜马拉雅粉盐产品出口商，直接来自巴基斯坦著名的凯乌拉盐矿。"
+  },
+  "wholesale": {
+    "title": "批发喜马拉雅粉盐产品 | Dr. Abdul PHS",
+    "description": "成为优质喜马拉雅粉盐产品的经销商。全球企业均可获得批发价格和选择。"
+  },
+  "contact": {
+    "title": "联系 Dr. Abdul PHS | 喜马拉雅粉盐供应商",
+    "description": "与我们的团队联系，了解有关喜马拉雅粉盐产品、批发机会或定制订单的信息。"
+  }
+}

@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="1000" height="600">
+  <!-- Background with geological layers -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#d6e7f0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f4f4f4;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="600" fill="url(#bgGradient)" />
+  
+  <!-- Geological layers -->
+  <g>
+    <!-- Sky -->
+    <rect x="0" y="0" width="1000" height="150" fill="#d6e7f0" opacity="0.7" />
+    
+    <!-- Mountain silhouette -->
+    <path d="M0,150 L100,120 L200,140 L300,90 L400,130 L500,70 L600,110 L700,80 L800,120 L900,100 L1000,130 L1000,150 Z" fill="#9badb7" />
+    
+    <!-- Soil layer -->
+    <path d="M0,150 L1000,150 L1000,200 L0,200 Z" fill="#8a7e66" />
+    
+    <!-- Rock layers -->
+    <path d="M0,200 L1000,200 L1000,250 L0,250 Z" fill="#7a6a56" />
+    <path d="M0,250 L1000,250 L1000,300 L0,300 Z" fill="#6a5b49" />
+    <path d="M0,300 L1000,300 L1000,350 L0,350 Z" fill="#594d3d" />
+    
+    <!-- Salt deposit layer -->
+    <path d="M0,350 L1000,350 L1000,450 L0,450 Z" fill="#e6d1d6" />
+    
+    <!-- More rock layers -->
+    <path d="M0,450 L1000,450 L1000,500 L0,500 Z" fill="#594d3d" />
+    <path d="M0,500 L1000,500 L1000,550 L0,550 Z" fill="#493e30" />
+    <path d="M0,550 L1000,550 L1000,600 L0,600 Z" fill="#3a3124" />
+  </g>
+  
+  <!-- Ancient ocean illustration (simplified) -->
+  <g opacity="0.4">
+    <path d="M200,120 C300,100 400,130 500,110 C600,90 700,110 800,90 C900,70 1000,90 1000,110 L1000,130 L200,130 Z" fill="#a8cce0" />
+    
+    <!-- Wave details -->
+    <path d="M200,115 C250,110 300,120 350,115 C400,110 450,120 500,115" stroke="#8eb9d4" stroke-width="1" fill="none" />
+    <path d="M500,110 C550,105 600,115 650,110 C700,105 750,115 800,110" stroke="#8eb9d4" stroke-width="1" fill="none" />
+    <path d="M800,105 C850,100 900,110 950,105 C975,102 1000,107 1000,110" stroke="#8eb9d4" stroke-width="1" fill="none" />
+    
+    <!-- Prehistoric sea life silhouettes -->
+    <path d="M300,120 C305,115 310,118 315,115 C320,112 325,115 330,120" fill="#7ba8c6" />
+    <path d="M600,105 C605,100 610,103 615,100 C620,97 625,100 630,105" fill="#7ba8c6" />
+    <path d="M900,100 C905,95 910,98 915,95 C920,92 925,95 930,100" fill="#7ba8c6" />
+  </g>
+  
+  <!-- Salt mine cross-section -->
+  <g transform="translate(500, 400)">
+    <!-- Mine tunnel -->
+    <path d="M-200,0 L-180,-20 L180,-20 L200,0 L200,50 L-200,50 Z" fill="#42382b" />
+    <path d="M-180,-20 L-170,-40 L170,-40 L180,-20" fill="#3a3124" />
+    <path d="M-170,-40 L-160,-50 L160,-50 L170,-40" fill="#32291e" />
+    
+    <!-- Salt veins in the mine -->
+    <path d="M-150,0 L-130,-25 L-140,-35 L-120,-30 L-100,-40 L-90,-25 L-70,-20 L-50,-30 L-40,-20 L-20,-25 L0,-15 L20,-25 L40,-20 L50,-30 L70,-20 L90,-25 L100,-40 L120,-30 L140,-35 L130,-25 L150,0" fill="none" stroke="#e6b8c0" stroke-width="3" />
+    
+    <!-- Salt crystals embedded in walls -->
+    <g fill="#f0c7ce">
+      <polygon points="-140,-15 -135,-25 -130,-20 -135,-10" />
+      <polygon points="-100,-20 -95,-30 -90,-25 -95,-15" />
+      <polygon points="-60,-15 -55,-25 -50,-20 -55,-10" />
+      <polygon points="-20,-20 -15,-30 -10,-25 -15,-15" />
+      <polygon points="20,-15 25,-25 30,-20 25,-10" />
+      <polygon points="60,-20 65,-30 70,-25 65,-15" />
+      <polygon points="100,-15 105,-25 110,-20 105,-10" />
+      <polygon points="140,-20 145,-30 150,-25 145,-15" />
+    </g>
+    
+    <!-- Mine supports -->
+    <rect x="-160" y="-20" width="10" height="70" fill="#6d4c33" />
+    <rect x="-80" y="-20" width="10" height="70" fill="#6d4c33" />
+    <rect x="0" y="-20" width="10" height="70" fill="#6d4c33" />
+    <rect x="80" y="-20" width="10" height="70" fill="#6d4c33" />
+    <rect x="150" y="-20" width="10" height="70" fill="#6d4c33" />
+    
+    <!-- Horizontal support beams -->
+    <rect x="-180" y="-10" width="360" height="8" fill="#5d402c" />
+    <rect x="-180" y="30" width="360" height="8" fill="#5d402c" />
+  </g>
+  
+  <!-- Ancient sea evaporation illustration -->
+  <g transform="translate(200, 200)">
+    <!-- Sun rays -->
+    <g opacity="0.4">
+      <path d="M50,-70 L60,-40" stroke="#f0c43c" stroke-width="2" stroke-linecap="round" />
+      <path d="M70,-65 L75,-35" stroke="#f0c43c" stroke-width="2" stroke-linecap="round" />
+      <path d="M90,-60 L90,-30" stroke="#f0c43c" stroke-width="2" stroke-linecap="round" />
+      <path d="M110,-65 L105,-35" stroke="#f0c43c" stroke-width="2" stroke-linecap="round" />
+      <path d="M130,-70 L120,-40" stroke="#f0c43c" stroke-width="2" stroke-linecap="round" />
+    </g>
+    
+    <!-- Water evaporation -->
+    <g opacity="0.5">
+      <path d="M60,0 C65,-10 55,-20 60,-30 C65,-40 75,-30 70,-20 C75,-10 65,0 60,0" fill="#a8cce0" />
+      <path d="M90,0 C95,-15 85,-25 90,-35 C95,-45 105,-35 100,-25 C105,-15 95,0 90,0" fill="#a8cce0" />
+      <path d="M120,0 C125,-10 115,-20 120,-30 C125,-40 135,-30 130,-20 C135,-10 125,0 120,0" fill="#a8cce0" />
+    </g>
+    
+    <!-- Mineral concentration in water -->
+    <g>
+      <circle cx="70" cy="10" r="2" fill="#d6a9b5" />
+      <circle cx="90" cy="15" r="2" fill="#d6a9b5" />
+      <circle cx="110" cy="10" r="2" fill="#d6a9b5" />
+      <circle cx="80" cy="20" r="2" fill="#d6a9b5" />
+      <circle cx="100" cy="25" r="2" fill="#d6a9b5" />
+      <circle cx="75" cy="30" r="2" fill="#d6a9b5" />
+      <circle cx="95" cy="35" r="2" fill="#d6a9b5" />
+      <circle cx="115" cy="30" r="2" fill="#d6a9b5" />
+    </g>
+  </g>
+  
+  <!-- Timeline illustration -->
+  <g transform="translate(800, 200)">
+    <line x1="0" y1="0" x2="0" y2="200" stroke="#6d4c33" stroke-width="4" />
+    
+    <!-- Timeline markers -->
+    <circle cx="0" cy="0" r="8" fill="#6d4c33" />
+    <text x="15" y="5" font-family="Arial, sans-serif" font-size="12" fill="#333333">250 Million Years Ago</text>
+    
+    <circle cx="0" cy="70" r="8" fill="#6d4c33" />
+    <text x="15" y="75" font-family="Arial, sans-serif" font-size="12" fill="#333333">Tethys Sea Evaporation</text>
+    
+    <circle cx="0" cy="140" r="8" fill="#6d4c33" />
+    <text x="15" y="145" font-family="Arial, sans-serif" font-size="12" fill="#333333">Himalayan Uplift</text>
+    
+    <circle cx="0" cy="200" r="8" fill="#6d4c33" />
+    <text x="15" y="205" font-family="Arial, sans-serif" font-size="12" fill="#333333">Present Day</text>
+  </g>
+  
+  <!-- Title text -->
+  <text x="500" y="50" font-family="Georgia, serif" font-size="36" text-anchor="middle" fill="#6d4c33" font-weight="bold">
+    The Ancient Origins of Pink Himalayan Salt
+  </text>
+  
+  <!-- Subtitle text -->
+  <text x="500" y="90" font-family="Georgia, serif" font-size="20" text-anchor="middle" fill="#8a7e66">
+    A 250-million-year geological journey
+  </text>
+  
+  <!-- Bottom informational text -->
+  <text x="500" y="570" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#6d4c33">
+    Dr. Abdul PHS • Salt Knowledge Centre
+  </text>
+</svg>

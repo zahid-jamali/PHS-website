@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="1000" height="600">
+  <!-- Background -->
+  <rect width="1000" height="600" fill="#e8f4f8" />
+  
+  <!-- Background decorative elements -->
+  <g opacity="0.15">
+    <path d="M0,150 Q250,200 500,150 T1000,150 V600 H0 Z" fill="#7fb9d4" />
+    <path d="M0,300 Q250,350 500,300 T1000,300 V600 H0 Z" fill="#5da0c2" />
+  </g>
+  
+  <!-- Salt room illustration -->
+  <g transform="translate(100, 150)">
+    <!-- Room outline -->
+    <rect x="0" y="0" width="500" height="300" rx="10" ry="10" fill="#f1f9fc" stroke="#7fb9d4" stroke-width="3" />
+    
+    <!-- Salt wall texture -->
+    <g opacity="0.5">
+      <rect x="0" y="0" width="500" height="300" rx="10" ry="10" fill="none" stroke="#a8d3e7" stroke-width="1" />
+      <!-- Salt texture pattern using small crosses -->
+      <g fill="#b8dced">
+        <circle cx="30" cy="30" r="3" />
+        <circle cx="70" cy="40" r="3" />
+        <circle cx="120" cy="25" r="3" />
+        <circle cx="180" cy="35" r="3" />
+        <circle cx="240" cy="20" r="3" />
+        <circle cx="300" cy="45" r="3" />
+        <circle cx="360" cy="25" r="3" />
+        <circle cx="420" cy="35" r="3" />
+        <circle cx="470" cy="30" r="3" />
+        
+        <circle cx="50" cy="80" r="3" />
+        <circle cx="110" cy="70" r="3" />
+        <circle cx="170" cy="85" r="3" />
+        <circle cx="230" cy="75" r="3" />
+        <circle cx="290" cy="90" r="3" />
+        <circle cx="350" cy="70" r="3" />
+        <circle cx="410" cy="80" r="3" />
+        <circle cx="460" cy="75" r="3" />
+        
+        <!-- Repeat pattern for more rows -->
+        <circle cx="30" cy="130" r="3" />
+        <circle cx="90" cy="140" r="3" />
+        <circle cx="150" cy="125" r="3" />
+        <circle cx="210" cy="145" r="3" />
+        <circle cx="270" cy="130" r="3" />
+        <circle cx="330" cy="140" r="3" />
+        <circle cx="390" cy="125" r="3" />
+        <circle cx="450" cy="145" r="3" />
+        
+        <circle cx="50" cy="180" r="3" />
+        <circle cx="110" cy="190" r="3" />
+        <circle cx="170" cy="175" r="3" />
+        <circle cx="230" cy="195" r="3" />
+        <circle cx="290" cy="180" r="3" />
+        <circle cx="350" cy="190" r="3" />
+        <circle cx="410" cy="175" r="3" />
+        <circle cx="460" cy="195" r="3" />
+        
+        <circle cx="30" cy="230" r="3" />
+        <circle cx="90" cy="240" r="3" />
+        <circle cx="150" cy="225" r="3" />
+        <circle cx="210" cy="245" r="3" />
+        <circle cx="270" cy="230" r="3" />
+        <circle cx="330" cy="240" r="3" />
+        <circle cx="390" cy="225" r="3" />
+        <circle cx="450" cy="245" r="3" />
+        
+        <circle cx="50" cy="280" r="3" />
+        <circle cx="110" cy="270" r="3" />
+        <circle cx="170" cy="285" r="3" />
+        <circle cx="230" cy="275" r="3" />
+        <circle cx="290" cy="290" r="3" />
+        <circle cx="350" cy="270" r="3" />
+        <circle cx="410" cy="280" r="3" />
+        <circle cx="460" cy="275" r="3" />
+      </g>
+    </g>
+    
+    <!-- Salt lamps -->
+    <g>
+      <ellipse cx="100" cy="250" rx="30" ry="20" fill="#f7d1b1" opacity="0.8" />
+      <ellipse cx="100" cy="250" rx="20" ry="12" fill="#fae3d3" opacity="0.6" />
+      
+      <ellipse cx="400" cy="250" rx="30" ry="20" fill="#f7d1b1" opacity="0.8" />
+      <ellipse cx="400" cy="250" rx="20" ry="12" fill="#fae3d3" opacity="0.6" />
+    </g>
+    
+    <!-- Person sitting and relaxing -->
+    <g transform="translate(250, 200)">
+      <!-- Chair outline -->
+      <rect x="-40" y="-50" width="80" height="100" rx="10" ry="10" fill="#c2dce9" />
+      
+      <!-- Person simplified outline -->
+      <circle cx="0" cy="-80" r="25" fill="#5a93b0" /> <!-- Head -->
+      <rect x="-20" y="-55" width="40" height="60" rx="10" ry="10" fill="#5a93b0" /> <!-- Body -->
+      <rect x="-35" y="-30" width="15" height="40" rx="5" ry="5" fill="#5a93b0" /> <!-- Left arm -->
+      <rect x="20" y="-30" width="15" height="40" rx="5" ry="5" fill="#5a93b0" /> <!-- Right arm -->
+      <rect x="-20" y="5" width="15" height="50" rx="5" ry="5" fill="#5a93b0" /> <!-- Left leg -->
+      <rect x="5" y="5" width="15" height="50" rx="5" ry="5" fill="#5a93b0" /> <!-- Right leg -->
+    </g>
+    
+    <!-- Air particles/mist -->
+    <g opacity="0.6">
+      <circle cx="150" cy="120" r="5" fill="#a8d3e7" />
+      <circle cx="200" cy="100" r="4" fill="#a8d3e7" />
+      <circle cx="250" cy="110" r="6" fill="#a8d3e7" />
+      <circle cx="300" cy="90" r="5" fill="#a8d3e7" />
+      <circle cx="350" cy="120" r="4" fill="#a8d3e7" />
+      
+      <circle cx="180" cy="160" r="3" fill="#a8d3e7" />
+      <circle cx="230" cy="150" r="5" fill="#a8d3e7" />
+      <circle cx="280" cy="140" r="4" fill="#a8d3e7" />
+      <circle cx="330" cy="160" r="3" fill="#a8d3e7" />
+      
+      <circle cx="220" cy="80" r="2" fill="#a8d3e7" />
+      <circle cx="270" cy="70" r="3" fill="#a8d3e7" />
+      <circle cx="320" cy="75" r="2" fill="#a8d3e7" />
+    </g>
+  </g>
+  
+  <!-- Respiratory system simplified illustration -->
+  <g transform="translate(700, 250)">
+    <!-- Lungs outline -->
+    <path d="M-40,-50 C-60,-20 -80,20 -60,60 C-40,100 -10,110 0,80 C10,110 40,100 60,60 C80,20 60,-20 40,-50 Z" fill="#d7eaf3" stroke="#5da0c2" stroke-width="2" />
+    
+    <!-- Bronchi -->
+    <path d="M0,-50 L0,0 M0,0 L-30,30 M0,0 L30,30" stroke="#5da0c2" stroke-width="3" fill="none" />
+    
+    <!-- Air particles -->
+    <g fill="#7fb9d4" opacity="0.7">
+      <circle cx="-40" cy="10" r="3" />
+      <circle cx="-30" cy="20" r="2" />
+      <circle cx="-20" cy="30" r="3" />
+      <circle cx="-10" cy="40" r="2" />
+      <circle cx="0" cy="50" r="3" />
+      <circle cx="10" cy="40" r="2" />
+      <circle cx="20" cy="30" r="3" />
+      <circle cx="30" cy="20" r="2" />
+      <circle cx="40" cy="10" r="3" />
+    </g>
+  </g>
+  
+  <!-- Title text -->
+  <text x="500" y="50" font-family="Georgia, serif" font-size="36" text-anchor="middle" fill="#2b6c8d" font-weight="bold">
+    Halotherapy: A Comprehensive Guide
+  </text>
+  
+  <!-- Subtitle text -->
+  <text x="500" y="90" font-family="Georgia, serif" font-size="20" text-anchor="middle" fill="#5084a0">
+    Modern salt therapy for respiratory wellness
+  </text>
+  
+  <!-- Bottom informational text -->
+  <text x="500" y="550" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#2b6c8d">
+    Dr. Abdul PHS • Salt Knowledge Centre
+  </text>
+</svg>

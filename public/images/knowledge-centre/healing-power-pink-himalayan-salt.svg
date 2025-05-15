@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="1000" height="600">
+  <!-- Background -->
+  <rect width="1000" height="600" fill="#f8ebe9" />
+  
+  <!-- Background decorative elements -->
+  <g opacity="0.2">
+    <path d="M0,150 Q250,300 500,150 T1000,150 V600 H0 Z" fill="#e38b9a" />
+    <path d="M0,300 Q250,450 500,300 T1000,300 V600 H0 Z" fill="#be7c8b" />
+  </g>
+  
+  <!-- Crystal shapes -->
+  <g transform="translate(100, 150)">
+    <!-- Large salt crystal -->
+    <polygon points="200,0 250,100 150,200 50,150 100,50" fill="#e38b9a" stroke="#be7c8b" stroke-width="3" />
+    
+    <!-- Medium salt crystal -->
+    <polygon points="400,80 450,120 420,180 350,170 340,100" fill="#e8a5b0" stroke="#be7c8b" stroke-width="2" />
+    
+    <!-- Small salt crystal -->
+    <polygon points="300,180 330,200 320,230 280,220 270,190" fill="#f8d1d8" stroke="#be7c8b" stroke-width="1.5" />
+    
+    <!-- Tiny salt crystal -->
+    <polygon points="500,200 520,210 515,230 490,225 485,210" fill="#f5b8c3" stroke="#be7c8b" stroke-width="1" />
+  </g>
+  
+  <!-- Healing concept elements -->
+  <g transform="translate(580, 250)">
+    <!-- Heart shape -->
+    <path d="M 0,30 A 30,30 0 0,1 60,30 A 30,30 0 0,1 120,30 Q 120,60 60,120 Q 0,60 0,30 Z" fill="#d46c82" opacity="0.8" />
+    
+    <!-- Energy waves -->
+    <g stroke="#be7c8b" stroke-width="4" fill="none" stroke-linecap="round">
+      <path d="M-50,50 Q-25,30 0,50 Q25,70 50,50 Q75,30 100,50 Q125,70 150,50" opacity="0.7" />
+      <path d="M-50,80 Q-25,60 0,80 Q25,100 50,80 Q75,60 100,80 Q125,100 150,80" opacity="0.5" />
+      <path d="M-50,110 Q-25,90 0,110 Q25,130 50,110 Q75,90 100,110 Q125,130 150,110" opacity="0.3" />
+    </g>
+  </g>
+  
+  <!-- Title text -->
+  <text x="500" y="50" font-family="Georgia, serif" font-size="36" text-anchor="middle" fill="#7d3e4c" font-weight="bold">
+    The Healing Power of Pink Himalayan Salt
+  </text>
+  
+  <!-- Subtitle text -->
+  <text x="500" y="90" font-family="Georgia, serif" font-size="20" text-anchor="middle" fill="#916673">
+    Ancient wisdom meets modern wellness
+  </text>
+  
+  <!-- Bottom informational text -->
+  <text x="500" y="550" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#7d3e4c">
+    Dr. Abdul PHS • Salt Knowledge Centre
+  </text>
+</svg>

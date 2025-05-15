@@ -1,0 +1,175 @@
+/* Import RTL styles for Arabic language support */
+@import './styles/rtl.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Main colors */
+    --background: 0 0% 100%;
+    --foreground: 0 0% 20%;
+
+    /* Primary: Pink salt-inspired */
+    --primary: 350 69% 91%;
+    --primary-light: 350 69% 95%;
+    --primary-dark: 350 41% 85%;
+    --primary-foreground: 350 20% 20%;
+
+    /* Secondary: Deeper reddish */
+    --secondary: 0 44% 52%;
+    --secondary-light: 0 44% 60%;
+    --secondary-dark: 0 44% 44%;
+    --secondary-foreground: 0 0% 100%;
+
+    /* UI colors */
+    --muted: 30 20% 95%;
+    --muted-foreground: 0 0% 45%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 20%;
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 20%;
+    --border: 30 10% 90%;
+    --input: 30 10% 90%;
+    --accent: 350 69% 91%;
+    --accent-foreground: 350 20% 20%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
+    --ring: 0 44% 52%;
+    --radius: 0.5rem;
+
+    /* Chart colors */
+    --chart-1: 0 44% 52%;
+    --chart-2: 350 69% 85%;
+    --chart-3: 30 50% 80%;
+    --chart-4: 210 50% 80%;
+    --chart-5: 270 50% 80%;
+
+    /* Sidebar colors */
+    --sidebar-background: 0 0% 100%;
+    --sidebar-foreground: 0 0% 20%;
+    --sidebar-primary: 350 69% 91%;
+    --sidebar-primary-foreground: 350 20% 20%;
+    --sidebar-accent: 0 44% 52%;
+    --sidebar-accent-foreground: 0 0% 100%;
+    --sidebar-border: 30 10% 90%;
+    --sidebar-ring: 0 44% 52%;
+  }
+
+  .dark {
+    --background: 0 0% 10%;
+    --foreground: 0 0% 98%;
+
+    /* Primary: Pink salt-inspired, but darker for dark mode */
+    --primary: 350 30% 40%;
+    --primary-light: 350 30% 50%;
+    --primary-dark: 350 30% 30%;
+    --primary-foreground: 0 0% 98%;
+
+    /* Secondary: Deeper reddish */
+    --secondary: 0 44% 45%;
+    --secondary-light: 0 44% 55%;
+    --secondary-dark: 0 44% 35%;
+    --secondary-foreground: 0 0% 98%;
+
+    /* UI colors */
+    --muted: 0 0% 20%;
+    --muted-foreground: 0 0% 75%;
+    --popover: 0 0% 10%;
+    --popover-foreground: 0 0% 98%;
+    --card: 0 0% 10%;
+    --card-foreground: 0 0% 98%;
+    --border: 0 0% 20%;
+    --input: 0 0% 20%;
+    --accent: 350 30% 40%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --ring: 0 44% 45%;
+
+    /* Sidebar colors */
+    --sidebar-background: 0 0% 10%;
+    --sidebar-foreground: 0 0% 98%;
+    --sidebar-primary: 350 30% 40%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 0 44% 45%;
+    --sidebar-accent-foreground: 0 0% 98%;
+    --sidebar-border: 0 0% 20%;
+    --sidebar-ring: 0 44% 45%;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply font-sans bg-background text-foreground antialiased;
+    scroll-behavior: smooth;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading;
+  }
+}
+
+@layer components {
+  .hero-gradient {
+    @apply bg-gradient-to-r from-primary/80 to-neutral-beige/90;
+  }
+
+  .section-title::after {
+    content: "";
+    display: block;
+    width: 80px;
+    height: 3px;
+    @apply bg-primary my-4;
+  }
+
+  .btn-primary {
+    @apply bg-secondary text-white hover:bg-secondary-dark transition-all duration-300 hover:shadow-md hover:-translate-y-0.5;
+  }
+
+  .btn-outline {
+    @apply border-2 border-secondary text-secondary hover:bg-secondary hover:text-white transition-all duration-300;
+  }
+
+  .product-card {
+    @apply bg-white rounded-lg overflow-hidden shadow-md transition-all duration-300;
+  }
+
+  .product-card:hover {
+    @apply -translate-y-1 shadow-lg;
+  }
+
+  .testimonial-card {
+    @apply transition-all duration-300;
+  }
+
+  .testimonial-card:hover {
+    @apply scale-[1.03];
+  }
+}
+
+/* Custom colors that match the design */
+@layer utilities {
+  .bg-neutral-white {
+    @apply bg-[#faf7f5];
+  }
+  
+  .bg-neutral-beige {
+    @apply bg-[#f5f0e8];
+  }
+  
+  .bg-neutral-gray {
+    @apply bg-[#e0dcd5];
+  }
+  
+  .text-neutral-dark {
+    @apply text-[#333333];
+  }
+
+  .font-accent {
+    @apply font-['Montserrat'];
+  }
+}

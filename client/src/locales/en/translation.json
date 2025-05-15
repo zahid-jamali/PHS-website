@@ -1,0 +1,106 @@
+{
+  "navbar": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About Us",
+    "knowledge": "Knowledge Centre",
+    "wholesale": "Wholesale",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Elevate Your Health & Cuisine With Nature's Perfect Salt",
+    "subtitle": "Experience the luxurious taste and healing benefits of premium Pink Himalayan Salt, harvested from ancient sea beds and pristinely packaged for global delivery.",
+    "imageCaption": "Featured: The Crystal Palace Tunnel in Khewra Salt Mine, Pakistan — The world's oldest salt mine and authentic source of our premium Pink Himalayan Salt",
+    "shopButton": "Shop Products",
+    "wholesaleButton": "Wholesale Inquiries"
+  },
+  "about": {
+    "title": "Our Story & Heritage",
+    "paragraph1": "Dr. Abdul PHS was founded with a passion for bringing the purest Pink Himalayan Salt directly from Pakistan to health-conscious consumers worldwide. Our journey began in the ancient salt mines of the Himalayas, where nature has been crafting the perfect salt for millions of years.",
+    "paragraph2": "What sets us apart is our direct sourcing approach. We maintain close relationships with local mining communities, ensuring fair practices and pristine product quality from mine to your table.",
+    "readMoreButton": "Read More About Us"
+  },
+  "products": {
+    "title": "Our Premium Products",
+    "subtitle": "Discover our range of Pink Himalayan Salt products crafted for health, wellness, and culinary excellence",
+    "categories": {
+      "all": "All Products",
+      "culinary": "Culinary",
+      "bath": "Bath & Body",
+      "lamps": "Salt Lamps",
+      "therapy": "Halotherapy",
+      "wholesale": "Wholesale"
+    },
+    "viewProductButton": "View Product"
+  },
+  "features": {
+    "title": "Why Dr. Abdul PHS?",
+    "subtitle": "What sets our Pink Himalayan Salt products apart",
+    "feature1": {
+      "title": "Premium Source",
+      "description": "Harvested from the pristine Khewra Salt Mine in Pakistan, known for the purest Pink Himalayan Salt deposits"
+    },
+    "feature2": {
+      "title": "Mineral Rich",
+      "description": "Contains 84+ natural minerals and trace elements beneficial for your health and wellbeing"
+    },
+    "feature3": {
+      "title": "Expert Quality",
+      "description": "Every product meets Dr. Abdul's exacting standards for purity, mineral content, and therapeutic value"
+    },
+    "feature4": {
+      "title": "Global Delivery",
+      "description": "Fast, reliable shipping with careful packaging to ensure your products arrive in perfect condition"
+    }
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "viewAllButton": "View All Testimonials"
+  },
+  "callToAction": {
+    "title": "Ready to Experience the Benefits?",
+    "subtitle": "Join thousands of health-conscious customers worldwide",
+    "shopButton": "Shop Now",
+    "learnMoreButton": "Learn More"
+  },
+  "footer": {
+    "about": "About Dr. Abdul PHS",
+    "aboutText": "We bring the purest Pink Himalayan Salt from Pakistan's ancient Khewra Salt Mine to health-conscious customers worldwide. Premium quality, ethically sourced, globally delivered.",
+    "quickLinks": "Quick Links",
+    "categories": "Categories",
+    "newsletter": "Get Updates",
+    "newsletterText": "Subscribe to receive new product alerts, special offers, and healthy living tips.",
+    "email": "Email address",
+    "subscribeButton": "Subscribe",
+    "copyright": "© 2025 Dr. Abdul PHS. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "terms": "Terms & Conditions"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We'd love to hear from you",
+    "name": "Your Name",
+    "email": "Email Address",
+    "subject": "Subject",
+    "message": "Your Message",
+    "submitButton": "Send Message",
+    "office": "Our Office",
+    "warehouse": "US Warehouse",
+    "phone": "Phone",
+    "emailUs": "Email Us"
+  },
+  "wholesale": {
+    "title": "Wholesale Partnership",
+    "subtitle": "Join our global network of Pink Himalayan Salt distributors",
+    "formTitle": "Wholesale Inquiry Form",
+    "business": "Business Name",
+    "name": "Contact Person",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "country": "Country",
+    "interest": "Products of Interest",
+    "volume": "Estimated Volume",
+    "message": "Additional Information",
+    "submitButton": "Submit Inquiry"
+  }
+}
